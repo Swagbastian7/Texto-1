@@ -1,64 +1,13 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2709
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Italic;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
+The artist is the creator of beautiful things. To reveal art and conceal the artist is art's aim. The critic is he who can translate into another manner or a new material his impression of beautiful things.
 
-\f0\i\fs24 \cf0 PREFACIO\
-El artista es el creador de cosas bellas.\
-Revelar el arte, ocultando al artista: tal es el fin del arte.\
-El cr\'edtico es aquel que puede traducir en un nuevo modo\
-o una materia distinta su impresi\'f3n de las cosas bellas.\
-La m\'e1s alta, como la m\'e1s baja forma de cr\'edtica, es siempre\
-una especie de autobiograf\'eda.\
-Los que encuentran un sentido feo en cosas bellas son\
-corrompidos sin ser seducidos. Esto es un defecto.\
-Los que encuentran un sentido bello en las cosas bellas\
-son los entendimientos cultos. Para \'e9stos todav\'eda hay esperanza.\
-Son los escogidos aquellos para quienes las cosas bellas\
-s\'f3lo significan Belleza.\
-No hay libros morales ni inmorales. Los libros est\'e1n\
-bien o mal escritos. Simplemente.\
-La aversi\'f3n del siglo XIX por el Realismo es la rabia de\
-Caliban al ver su propia faz en un espejo.\
-La aversi\'f3n del siglo XIX por el Romanticismo es la rabia\
-de Caliban al no ver su propia faz en un espejo.
-\fs20 \
+The highest as the lowest form of criticism is a mode of autobiography. Those who find ugly meanings in beautiful things are corrupt without being charming. This is a fault.
 
-\fs24 La vida moral del hombre forma parte de los materiales\
-del artista; pero la moral del arte consiste en el uso perfecto\
-de un medio imperfecto.\
-Ning\'fan artista desea demostrar nada. Hasta las verdades\
-pueden ser demostradas.\
-Ning\'fan artista tiene simpat\'edas \'e9ticas. Una simpat\'eda \'e9tica\
-en un artista es un imperdonable amaneramiento del estilo.\
-Ning\'fan artista es jam\'e1s morboso. El artista puede expresarlo\
-todo.\
-Pensamiento y palabra son para el artista instrumentos\
-de un arte.\
-Vicio y virtud son para el artista materiales de un arte.\
-Desde el punto de vista de la forma, el arquetipo de todas\
-las artes es el arte del m\'fasico. Desde el punto de vista del\
-sentimiento, el oficio del actor es el arquetipo.\
-Todo arte es a la vez superficie y s\'edmbolo.\
-Los que van m\'e1s adentro de la superficie, h\'e1cenlo as\'ed a\
-cuenta y riesgo propios.\
-Los que descifran el s\'edmbolo, h\'e1cenlo as\'ed a cuenta y\
-riesgo propios.\
-Es el espectador, y no la vida, lo que realmente el arte\
-refleja.\
-Diversidad de opini\'f3n sobre una obra de arte prueba\
-que la obra es nueva, compleja y vital.\
-Cuando los cr\'edticos est\'e1n en desacorde, el artista est\'e1 de\
-acuerdo consigo mismo.\
-Podemos perdonar a un hombre que haga una cosa \'fatil,\
-con tal de que no la admire. La sola excusa de hacer una cosa\
-in\'fatil es admirarla inmensamente.\
-\pard\pardeftab720\partightenfactor0
+Those who find beautiful meanings in beautiful things are the cultivated. For these there is hope. They are the elect to whom beautiful things mean only beauty.
 
-\fs20 \cf0 \
-\pard\pardeftab720\partightenfactor0
+There is no such thing as a moral or an immoral book. Books are well written, or badly written. That is all.
 
-\fs24 \cf0 Todo arte es completamente in\'fatil.}
+The nineteenth century dislike of realism is the rage of Caliban seeing his own face in a glass.
+
+The nineteenth century dislike of romanticism is the rage of Caliban not seeing his own face in a glass. The moral life of man forms part of the subject-matter of the artist, but the morality of art consists in the perfect use of an imperfect medium. No artist desires to prove anything. Even things that are true can be proved. No artist has ethical sympathies. An ethical sympathy in an artist is an unpardonable mannerism of style. No artist is ever morbid. The artist can express everything. Thought and language are to the artist instruments of an art. Vice and virtue are to the artist materials for an art. From the point of view of form, the type of all the arts is the art of the musician. From the point of view of feeling, the actor's craft is the type. All art is at once surface and symbol. Those who go beneath the surface do so at their peril. Those who read the symbol do so at their peril. It is the spectator, and not life, that art really mirrors. Diversity of opinion about a work of art shows that the work is new, complex, and vital. When critics disagree, the artist is in accord with himself. We can forgive a man for making a useful thing as long as he does not admire it. The only excuse for making a useless thing is that one admires it intensely.
+
+All art is quite useless.
